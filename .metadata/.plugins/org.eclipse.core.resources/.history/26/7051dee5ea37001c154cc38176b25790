@@ -1,0 +1,22 @@
+package start;
+
+import java.io.File;
+
+import ctrl.CtrlAemet;
+import model.Comunidades;
+
+public class Principal {
+	public static File fileName=new File("PB.xml"); 
+	  
+	public static void main(String[] args) {
+		
+		CtrlAemet fchXML = new CtrlAemet("PB.xml");
+		
+		for (Comunidades ca:fchXML.) {
+			
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+<Jugador numero="1">
+<sNombre>Antonio</sNombre>
+<sApellidos>Bermudez Troncoso</sApellidos>
+<sNick>rock</sNick>
+<iPuntos>2100</iPuntos>
+</Jugador>
+
+<Jugador numero="2">
+<sNombre>Jesus</sNombre>
+<sApellidos>Lopez Troncoso</sApellidos>
+<sNick>xumbo</sNick>
+<iPuntos>2100</iPuntos>
+</Jugador>
+
+<Jugador numero="3">
+<sNombre>Manolo</sNombre>
+<sApellidos>Lobato Brenes</sApellidos>
+<sNick>Mallete</sNick>
+<iPuntos>1900</iPuntos>
+</Jugador>
+
+<Jugador numero="4">
+<sNombre>Tomas</sNombre>
+<sApellidos>Bermudez Cortes</sApellidos>
+<sNick>abuelo</sNick>
+<iPuntos>1650</iPuntos>
+</Jugador>
+
+<Jugador numero="5">
+<sNombre>Hermenegildo</sNombre>
+<sApellidos>Suarez Brenes</sApellidos>
+<sNick></sNick>
+<iPuntos>2300</iPuntos>
+</Jugador>
+</game>

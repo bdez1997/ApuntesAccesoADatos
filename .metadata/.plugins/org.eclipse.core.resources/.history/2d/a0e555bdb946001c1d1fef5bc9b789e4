@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+"-//Hibernate/Hibernate Configuration DTD 3.0//EN" 
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd"
+>
+
+<hibernate-configuration>
+
+    <session-factory>
+        <property name="hibernate.current_session_context_class">org.hibernate.context.internal.ThreadLocalSessionContext</property>
+        
+        <!-- Parámetros de conexión con la BD -->
+        <property name="hibernate.connection.driver_class">oracle.jdbc.OracleDriver</property>
+        <property name="hibernate.connection.url">jdbc:oracle:thin:@10.192.120.60:1521:ORCL</property>
+        <property name="hibernate.connection.username">BERMUDEZ</property>
+        <property name="hibernate.connection.password">medac2021</property>
+        <property name="hibernate.connection.pool_size">10</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
+        
+        <!-- Mostral el SQL general por consola para debugging -->
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+
+        <!-- Mapping Files -->
+        <mapping class="Model.Coche" />
+        
+    </session-factory>
+</hibernate-configuration>
