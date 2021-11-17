@@ -6,6 +6,7 @@
 
 <hibernate-configuration>
 	<session-factory>
+	
 		<property name = "hibernate.current_session_context_class">org.hibernate.context.internal.ThreadLocalSessionContext</property>
 		
 		<!-- Parametros de conexion con la BD -->

@@ -4,8 +4,7 @@
 "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"
 >
 <hibernate-mapping>
-
-	<class name = "model.Casa" table = "Casa">
+	<class name = "model.Casa" table = "CASA">
 		<id name = "iId" column="ID_CASA" type= "integer">
 			<generator class = "sequence">
 				<param name = "sequence_name">SEQ_CASA</param>
@@ -13,6 +12,6 @@
 		</id>
 		<property name = "sCalle" column="CALLE" type ="string"/>
 		<property name = "iNumber" column="NUMERO" type ="integer"/>
-		<property name = "iPotencia" column="POTENCIA" type ="integer"/>
+		<property name = "doDimension" column="SUPERFICIE" type ="double"/>
 	</class>
 </hibernate-mapping>
