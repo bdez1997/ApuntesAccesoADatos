@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<COCHE>
+    <COCHE>
+        <ID_COCHE>22</ID_COCHE>
+    </COCHE>
+    <COCHE>
+        <MARCA>Audi</MARCA>
+    </COCHE>
+    <COCHE>
+        <MODELO>A6</MODELO>
+    </COCHE>
+    <COCHE>
+        <ID_COCHE>23</ID_COCHE>
+    </COCHE>
+    <COCHE>
+        <MARCA>Audi</MARCA>
+    </COCHE>
+    <COCHE>
+        <MODELO>A7</MODELO>
+    </COCHE>
+    <COCHE>
+        <ID_COCHE>1</ID_COCHE>
+    </COCHE>
+    <COCHE>
+        <MARCA>FORD</MARCA>
+    </COCHE>
+    <COCHE>
+        <MODELO>FIESTA</MODELO>
+    </COCHE>
+    <COCHE>
+        <ID_COCHE>21</ID_COCHE>
+    </COCHE>
+    <COCHE>
+        <MARCA>Audi</MARCA>
+    </COCHE>
+    <COCHE>
+        <MODELO>A6</MODELO>
+    </COCHE>
+</COCHE>

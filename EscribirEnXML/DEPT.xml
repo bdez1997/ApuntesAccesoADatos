@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DEPT>
+    <DEPT>
+        <DEPTNO>10</DEPTNO>
+    </DEPT>
+    <DEPT>
+        <DNAME>ACCOUNTING</DNAME>
+    </DEPT>
+    <DEPT>
+        <DEPTNO>20</DEPTNO>
+    </DEPT>
+    <DEPT>
+        <DNAME>RESEARCH</DNAME>
+    </DEPT>
+    <DEPT>
+        <DEPTNO>30</DEPTNO>
+    </DEPT>
+    <DEPT>
+        <DNAME>SALES</DNAME>
+    </DEPT>
+    <DEPT>
+        <DEPTNO>40</DEPTNO>
+    </DEPT>
+    <DEPT>
+        <DNAME>OPERATIONS</DNAME>
+    </DEPT>
+</DEPT>
